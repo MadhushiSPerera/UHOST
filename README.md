@@ -1,2 +1,2 @@
 # UHOST
-University Hostel Allocation web site
+University Hostel Allocation & Issue Tracker System
